@@ -1,0 +1,12 @@
+# Gestión de Variables de Entorno
+python-dotenv==1.0.1
+
+# Automatización Web
+selenium==4.20.0
+
+# Google Sheets API
+gspread==6.1.0
+oauth2client==4.1.3
+
+# Interfaz de Consola
+colorama==0.4.6

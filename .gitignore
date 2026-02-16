@@ -1,0 +1,14 @@
+# Seguridad y Llaves
+.env
+creds/
+*.json
+
+# Python basura
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Logs y Entorno Virtual
+*.log
+venv/
+.venv/
